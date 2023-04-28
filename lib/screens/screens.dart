@@ -1,0 +1,1 @@
+export 'package:clarivo/home.dart';

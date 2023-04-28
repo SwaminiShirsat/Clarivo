@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537085307139",
+    "project_id": "clarivo-7f3e3",
+    "storage_bucket": "clarivo-7f3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537085307139:android:8a15a5a6659e9b7ac06136",
+        "android_client_info": {
+          "package_name": "com.example.clarivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537085307139-fhghbsr3f03ba5ajc2ril5u0ombjektu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKM0ElfkR8k_NnfyLJk21fA_TJUy943Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537085307139-fhghbsr3f03ba5ajc2ril5u0ombjektu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
